@@ -21,8 +21,8 @@ repository               : "ji-ung-lee/ji-ung-lee.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "selfie.jpg"
+  name             : "Ji-Ung Lee"
   pronouns         : # example: "he/him"  
   bio              : "PhD Student at [UKP Lab](https://www.informatik.tu-darmstadt.de/ukp)"
   location         : "Darmstadt"
@@ -36,35 +36,11 @@ author:
   orcid            : "https://orcid.org/0000-0002-8428-2003"
 
   # Repositories and software development
-  codepen          : # Username
-  dribbble         : # Username
   github           : "Wuhn"
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
   linkedin         : "ji-ung-lee-4592a8164"
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
   twitter          : "JiUngLee1"
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # URL
 
 
 # Site Settings
