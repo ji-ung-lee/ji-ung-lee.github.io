@@ -11,31 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Technical University of Darmstadt, 2024 (expected)
+* M.S. in Computer Science, Technical University of Darmstadt, 2017
+* B.S. in Computer Science, Technical University of Darmstadt, 2013
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+
+* 2017 - 2019: a! Automated Language Instruction
+  * UKP Lab, TUDa
+  * Develp
+
+* 2016 - 2017: Freelancing Software Developer
+  
+* Winter 2014/15: Research Assistant
+  * Department of Psychology, TUDa
+  * Duties included: Development and maintenance of a robot arm providing haptic feedback in an interdisciplinary project
+
+* Summer 2014: Research Assistant
+  * CASED, TUDa
+  * Duties included: Developing a sand-boxed web application for teaching basic hacking skills
   
 Skills
 ======
 * Skill 1
-* Skill 2
+* P
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
