@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Webpage of Ji-Ung Lee"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Ji-Ung Lee"
 description              : &description "personal description"
@@ -24,9 +24,9 @@ author:
   avatar           : "selfie.jpg"
   name             : "Ji-Ung Lee"
   pronouns         : # example: "he/him"  
-  bio              : "PhD Student at [UKP Lab](https://www.informatik.tu-darmstadt.de/ukp)"
+  bio              : "PhD Student at UKP Lab"
   location         : "Darmstadt"
-  employer         : "Techincal University of Darmstadt"
+  employer         : "Technical University of Darmstadt"
   uri              : # URL
   email            : "ji-ung.lee@tu-darmstadt.de" 
 
@@ -174,9 +174,6 @@ collections:
     permalink: /:collection/:path/
   publications:
     output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: false
     permalink: /:collection/:path/
   talks:
     output: true
