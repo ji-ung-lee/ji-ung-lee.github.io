@@ -9,34 +9,29 @@ redirect_from:
 
 Hi there! I am a PhD student at the UKP Lab at the Technical University of Darmstadt (Germany). My research revolves around methods for efficient model training in natural language processing (NLP). This usually involves methods that can tackle low-data scenarios such as active learning with users who can provide the labels for queried instances. I am also interested in computer-assisted language learning (CALL) in the context of automated exercise generation and assessment. If you are interested in these research topics feel free to drop me a message! 
 
-
-A data-driven personal website
+Activities
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+During my PhD, I had the pleasure to be part of various other activities besides my research. 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
+Workshop Organization
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Since 2021, I am a part of the organizing team of the workshop on interactive learning for natural language processing (InterNLP). After a break in 2023, we are currently working on a new issue for 2024/25. If you are interested in joining the programme committee, please feel free to reach out! You can find all papers and talks of the past workshops below: 
 
-Create content & metadata
+* [InterNLP 2022](https://internlp.github.io/2022/index.html) (co-located with NeurIPS 2022)
+* [InterNLP 2021](https://sites.google.com/view/internlp2021/home) (co-located with ACL 2021)
+
+Community Engagement
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Since 2019, I am a regular reviewer at major NLP and other machine learning conferences. I have received multiple outstanding reviewer awards (ACL 2020, EACL 2021, and ARR 10/2024). I also review at various workshops, most notably at [BEA](https://sig-edu.org/bea/).
 
-**Markdown generator**
+Talks
+------
+* Invited talk: Facets of efficiency in NLP. ([youtube](https://www.youtube.com/watch?v=Q6vs2nc2-HA)), KUIS AI, Ko¸c University. September, 2022.
+* Spotlight talk: nvestigating rational activation functions to train Transformer models. Dagstuhl Seminar on Efficient and Equitable Natural Language Processing in the Age of Deep Learning ([webpage](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/22232)). June, 2022.
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-
-
+Teaching
+------
+* Winter 2020/21: Project coordinator of 50+ student software projects ([Bachelorpraktikum](https://www.informatik.tu-darmstadt.de/studium_fb20/im_studium/studiengaenge_liste/bachelor_praktikum.de.jsp))
+* Winter 2019/20: Project coordinator of 50+ student software projects ([Bachelorpraktikum](https://www.informatik.tu-darmstadt.de/studium_fb20/im_studium/studiengaenge_liste/bachelor_praktikum.de.jsp))
+* Summer 2018: Text analytics [course](https://www.tucan.tu-darmstadt.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000002,-N000608,-N0,-N365583171866414,-N365583171891415,-N0,-N0,-N0) on active learning for undergraduate and graduate students
+* Student thesis supervision: I also had the pleasure to supervise 9 motivated students on their B.Sc. and M.Sc. thesis. 
