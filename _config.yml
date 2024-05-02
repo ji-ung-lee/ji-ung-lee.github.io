@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Student at [UKP Lab](https://www.informatik.tu-darmstadt.de/ukp)"
   location         : "Darmstadt"
-  employer         : "Red Brick University"
+  employer         : "Techincal University of Darmstadt"
   uri              : # URL
   email            : "ji-ung.lee@tu-darmstadt.de" 
 
