@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am Ji-Ung, a PhD student at the UKP Lab at the Technical University of Darmstadt (Germany). My research revolves around efficient model training in natural language processing (NLP). This usually involves methods such as active learning that can handle low-resource scenarios with users who can provide the labels for queried instances. I am also interested in (human) language learning, the evaluation of my methods often happen within the context of automated exercise generation and assessment. Finally, I am a big fan of user studies, having devised and conducted various evaluation studies involving citizen scientists. If you are interested in these research topics feel free to drop me a message! 
+Hi there! I am Ji-Ung, a PhD student at the UKP Lab at the Technical University of Darmstadt (Germany). My research revolves around efficient model training in natural language processing (NLP). This usually involves methods such as active learning that can handle low-resource scenarios with users who can provide the labels for queried instances. I am also interested in (human) language learning, so the evaluation of my methods often happens within the context of automated exercise generation and assessment. Finally, I am a big fan of user studies, having devised and conducted various evaluation studies involving citizen scientists. If you are interested in these research topics feel free to drop me a message! 
 
 Activities
 ======
