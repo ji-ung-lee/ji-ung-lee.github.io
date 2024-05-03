@@ -14,7 +14,7 @@ Activities
 
 Workshop Organization
 ------
-Since 2021, I am a part of the organizing team of the workshop on interactive learning for natural language processing (InterNLP). After a break in 2023, we are currently working on a new issue for 2024/25. If you are interested in joining the programme committee, please feel free to reach out! You can find all papers and talks of the past workshops below: 
+Since 2021, I am a part of the organizing team of the workshop on interactive learning for natural language processing (InterNLP). Currently, we are working on the third workshop planned in 2024/25. If you are interested in joining the programme committee, please feel free to reach out! You can find all papers and talks of the past workshops below: 
 
 * [InterNLP 2022](https://internlp.github.io/2022/index.html) (co-located with NeurIPS 2022)
 * [InterNLP 2021](https://sites.google.com/view/internlp2021/home) (co-located with ACL 2021)
