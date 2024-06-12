@@ -21,9 +21,9 @@ repository               : "ji-ung-lee/ji-ung-lee.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "selfie2.jpg"
+  avatar           : "selfie3.jpg"
   name             : "Ji-Ung Lee"
-  pronouns         : # example: "he/him"  
+  pronouns         : "he/him"  
   bio              : "PhD Student at UKP Lab"
   location         : "Darmstadt"
   employer         : "Technical University of Darmstadt"
