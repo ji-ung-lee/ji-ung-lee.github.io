@@ -3,7 +3,13 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "CV"
+  - title: "Activities"
+    url: /activities/
+
+  - title: "Teaching"
+    url: /teaching/
+
+   - title: "CV"
     url: https://ji-ung-lee.github.io/files/github-cv.pdf
 
  
