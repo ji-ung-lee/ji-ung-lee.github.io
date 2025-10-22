@@ -12,6 +12,12 @@ Hi there! I am Ji-Ung, a postdoc at the research training group [Neuroexplicit M
 News
 ======
 
+09-2025 - New Preprint [(paper)](https://arxiv.org/abs/2509.22291)
+------
+Bridging Fairness and Explainability: Can Input-Based Explanations Promote Fairness in Hate Speech Detection? _Yifan Wang, Mayank Jobanputra, Ji-Ung Lee, Soyoung Oh, Isabel Valera, Vera Demberg_. 2025. 
+
+> **Abstract:** Natural language processing (NLP) models often replicate or amplify social bias from training data, raising concerns about fairness. At the same time, their black-box nature makes it difficult for users to recognize biased predictions and for developers to effectively mitigate them. While some studies suggest that input-based explanations can help detect and mitigate bias, others question their reliability in ensuring fairness. Existing research on explainability in fair NLP has been predominantly qualitative, with limited large-scale quantitative analysis. In this work, we conduct the first systematic study of the relationship between explainability and fairness in hate speech detection, focusing on both encoder- and decoder-only models. We examine three key dimensions: (1) identifying biased predictions, (2) selecting fair models, and (3) mitigating bias during model training. Our findings show that input-based explanations can effectively detect biased predictions and serve as useful supervision for reducing bias during training, but they are unreliable for selecting fair models among candidates. 
+
 02-2025 - New Preprint [(paper)](https://arxiv.org/abs/2502.12992)
 ------
 B-cos LM: Efficiently Transforming Pre-trained Language Models for Improved Explainability. _Yifan Wang, Sukrut Rao, Ji-Ung Lee, Mayank Jobanputra, Vera Demberg_. 2025. 
