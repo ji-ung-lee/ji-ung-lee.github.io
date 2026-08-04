@@ -4,7 +4,7 @@ collection: teaching
 type: "Guest Lecture"
 permalink: /teaching/2024-winter-guest-lecture-ethics
 venue: "University of Saarland, Department of Language, Science and Technology"
-date: 2024-01-24
+date: 2025-01-24
 location: "Saarbruecken, Germany"
 ---
 A guest lecture on ethics in NLP at the course computational linguistics.
