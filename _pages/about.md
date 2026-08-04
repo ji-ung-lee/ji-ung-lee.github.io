@@ -2,42 +2,70 @@
 permalink: /
 title: "Ji-Ung Lee"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Hi there! I am Ji-Ung, a postdoc at the research training group [Neuroexplicit Models](https://www.neuroexplicit.org/) at the University of Saarland (Germany). My research revolves around efficient model training in natural language processing (NLP). This usually involves methods such as active learning that can handle low-resource scenarios with users who can provide the labels for queried instances. I am also interested in (human) language learning, so the evaluation of my methods often happens within the context of automated exercise generation and assessment. Finally, I am a big fan of user studies, having devised and conducted various evaluation studies involving citizen scientists. If you are interested in these research topics feel free to drop me a message! 
+Hi, I'm Ji-Ung, a postdoc at the research training group (RTG) [Neuroexplicit Models](https://www.neuroexplicit.org/) at the University of Saarland (Germany). My research revolves around developing models that humans can understand and interact with. This involves aspects such as interpretability, steerability, model efficiency, and faithfulness. Besides, I am interested in open education, ethics, and citizen science. If you are interested in these topics feel free to drop me a message! 
 
 News
 ======
 
-01-2026 - Paper accepted to ICLR [(paper)](https://openreview.net/forum?id=fPMu3Afv3s)
+07-2026 - Paper accepted to COLM
 ------
-Bridging Fairness and Explainability: Can Input-Based Explanations Promote Fairness in Hate Speech Detection? _Yifan Wang, Mayank Jobanputra, Ji-Ung Lee, Soyoung Oh, Isabel Valera, Vera Demberg_. 2025. 
+[Fork-Think with Confidence](https://arxiv.org/abs/2606.31484) _Zena Al-Khalili, Rafi Hakim, Dietrich Klakow, **Ji-Ung Lee**_. 2026.
 
-> **Abstract:** Natural language processing (NLP) models often replicate or amplify social bias from training data, raising concerns about fairness. At the same time, their black-box nature makes it difficult for users to recognize biased predictions and for developers to effectively mitigate them. While some studies suggest that input-based explanations can help detect and mitigate bias, others question their reliability in ensuring fairness. Existing research on explainability in fair NLP has been predominantly qualitative, with limited large-scale quantitative analysis. In this work, we conduct the first systematic study of the relationship between explainability and fairness in hate speech detection, focusing on both encoder- and decoder-only models. We examine three key dimensions: (1) identifying biased predictions, (2) selecting fair models, and (3) mitigating bias during model training. Our findings show that input-based explanations can effectively detect biased predictions and serve as useful supervision for reducing bias during training, but they are unreliable for selecting fair models among candidates. 
+In this work, we propose a simple modification to existing inference scaling methods and show that instead of sampling from the very first token, we can also sample at later tokens, saving substantial amounts of compute while maintaining a performance comparable to parallel thinking.
+
+
+06-2026 - Half-day workshop at [Forschungstage Informatik](https://www.mpi-inf.mpg.de/de/aktuelles/details/forschungstage-informatik-alljaehrlicher-treffpunkt-fuer-junge-talente-der-informatik)
+------
+Together with [Mareike Hartmann](https://mahartmann.github.io/), we organized a half-a day workshop at [Forschungstage Informatik](https://www.mpi-inf.mpg.de/de/aktuelles/details/forschungstage-informatik-alljaehrlicher-treffpunkt-fuer-junge-talente-der-informatik), a multi-day event with young talents who passed the second round of the national computer science competition for school students. Our workshop taught them about how modern LLMs and agents are trained and allowed them to experiment with different contemporary agents.
+
+03-2026 - RTG Spring Workshop
+------
+I had the pleasure to kicked-off this year's spring workshop with a talk on a neuroexplicit perspective, developed together with [Wolfgang](https://wolfstam.github.io/), [Max](https://www.rausch-dupont.de/), [Chaahat](https://fai.cs.uni-saarland.de/jain/), and [Nektarios](https://machinelearning.uni-saarland.de/nektarios-kalampalikis/). This was followed by 
+Together with talks from [Alexander Koller](https://www.coli.uni-saarland.de/koller/), [Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html), [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele), [Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/), [Mariya Toneva](https://mtoneva.com/), and [Jilles Vreeken](https://cispa.de/en/people/jilles.vreeken), we had lots of fun discussing how we can put different types of neuroexplicit models in relation to each other as well as what their strenghts and weaknesses may be.
+
+01-2026 - Paper accepted to ICLR
+------
+[Bridging Fairness and Explainability: Can Input-Based Explanations Promote Fairness in Hate Speech Detection?](https://openreview.net/forum?id=fPMu3Afv3s) _Yifan Wang, Mayank Jobanputra, **Ji-Ung Lee**, Soyoung Oh, Isabel Valera, Vera Demberg_. 2026.
+
+In this work, we study the use of input-based explanations for promoting fairness in the context of hate-speech detection and find that input-based explanations 1) can effectively detect biased predictions, 2) serve as useful supervision for reducing bias during training, 3) are not reliable predictors to identify fair models.
+
+01-2026 - Guest Lecture: Ethics in NLP
+------
+I gave another guest lecture on Ethics in NLP at the Computational Linguistics lecture by [Alexander Koller](https://www.coli.uni-saarland.de/koller/). The talk first introduced multiple aspects regarding ethics, ethical research, and the increasing impact of NLP on the society. We then talked about how biases (in data and models) as well as various aspects of privacy. This time, we closed with a very interesting discussion round centered around the dual use of AI.
+
 
 12-2025 - Paper accepted to TMLR [(paper)](https://openreview.net/forum?id=c180UH8Dg8)
 ------
-B-cos LM: Efficiently Transforming Pre-trained Language Models for Improved Explainability. _Yifan Wang, Sukrut Rao, Ji-Ung Lee, Mayank Jobanputra, Vera Demberg_. 2025.
+B-cos LM: Efficiently Transforming Pre-trained Language Models for Improved Explainability. _Yifan Wang, Sukrut Rao, **Ji-Ung Lee**, Mayank Jobanputra, Vera Demberg_. 2025.
 
-> **Abstract:** Post-hoc explanation methods for black-box models often struggle with faithfulness and human interpretability due to the lack of explainability in current neural architectures. Meanwhile, B-cos networks have been introduced to improve model explainability by proposing an architecture that removes bias terms and promotes input-weight alignment. Although B-cos networks have shown success in building explainable systems, their application has so far been limited to computer vision models and their associated training pipelines. In this work, we introduce B-cos LMs, i.e., B-cos Language Models (LMs) empowered for natural language processing (NLP) tasks. Our approach directly transforms pre-trained language models into B-cos LMs by combining B-cos conversion and task fine-tuning, improving efficiency compared to previous methods. Automatic and human evaluation results demonstrate that B-cos LMs produce more faithful and human interpretable explanations than post-hoc methods, while maintaining task performance comparable to conventional fine-tuning. Our in-depth analysis explores how B-cos LMs differ from conventionally fine-tuned models in their learning processes and explanation patterns. Finally, we present a first exploration of transforming decoder-only models to B-cos LMs for generation tasks. Our code is available at https://github.com/Ewanwong/bcos_lm.
+In this work, we propose different adaptation techniques to B-cosify language models. In contrast to conventional models, B-cos models promote input-faithfulness by replacing linear transformations with B-cos transforms. Our experiments show that pre-trained encoder- and decoder-only models can be transformed into B-cos versions of themselves while maintaining a high performance. We further find that---in contrast to vision tasks that benefit from a high input locality---lower locality is more beneficial for language tasks.
 
-09-2025 - New Preprint [(paper)](https://arxiv.org/abs/2509.22291)
-------
-Bridging Fairness and Explainability: Can Input-Based Explanations Promote Fairness in Hate Speech Detection? _Yifan Wang, Mayank Jobanputra, Ji-Ung Lee, Soyoung Oh, Isabel Valera, Vera Demberg_. 2025. 
 
-> **Abstract:** Natural language processing (NLP) models often replicate or amplify social bias from training data, raising concerns about fairness. At the same time, their black-box nature makes it difficult for users to recognize biased predictions and for developers to effectively mitigate them. While some studies suggest that input-based explanations can help detect and mitigate bias, others question their reliability in ensuring fairness. Existing research on explainability in fair NLP has been predominantly qualitative, with limited large-scale quantitative analysis. In this work, we conduct the first systematic study of the relationship between explainability and fairness in hate speech detection, focusing on both encoder- and decoder-only models. We examine three key dimensions: (1) identifying biased predictions, (2) selecting fair models, and (3) mitigating bias during model training. Our findings show that input-based explanations can effectively detect biased predictions and serve as useful supervision for reducing bias during training, but they are unreliable for selecting fair models among candidates. 
+11-2025 RTG Retreat
+-----
+In the first retreat with the fully grown RTG of 24 PhD students, we had multiple poster sessions with lots of interesting research, many introduction talks, and two panels moderated by [Wolfgang Stammer](https://wolfstam.github.io/) and me. We also hosted two great guests, [Mor Geva Pipek](https://mega002.github.io/) who talked about mechanistic interpretability and [Luca Bortolussi](https://ai-lab.units.it/?page_id=139) who gave a talk on learning signal temporal logic formulae. Besides research, we also had a great time at our half-day trip to the [Völklinger Hütte](https://voelklinger-huette.org/).
 
-02-2025 - New Preprint [(paper)](https://arxiv.org/abs/2502.12992)
-------
-B-cos LM: Efficiently Transforming Pre-trained Language Models for Improved Explainability. _Yifan Wang, Sukrut Rao, Ji-Ung Lee, Mayank Jobanputra, Vera Demberg_. 2025.
 
-> **Abstract:** Post-hoc explanation methods for black-box models often struggle with faithfulness and human interpretability due to the lack of explainability in current neural models. Meanwhile, B-cos networks have been introduced to improve model explainability through architectural and computational adaptations, but their application has so far been limited to computer vision models and their associated training pipelines. In this work, we introduce B-cos LMs, i.e., B-cos networks empowered for NLP tasks. Our approach directly transforms pre-trained language models into B-cos LMs by combining B-cos conversion and task fine-tuning, improving efficiency compared to previous B-cos methods. Our automatic and human evaluation results demonstrate that B-cos LMs produce more faithful and human interpretable explanations than post hoc methods, while maintaining task performance comparable to conventional fine-tuning. Our in-depth analysis explores how B-cos LMs differ from conventionally fine-tuned models in their learning processes and explanation patterns. Finally, we provide practical guidelines for effectively building B-cos LMs based on our findings.
+07-2025 Attending ACL 2025
+-----
+At ACL 2025 in Vienna, I had the pleasure to catch up with many former colleagues from [TU Darmstadt](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) and to also meet new people and discuss research. One of the highlights was the panel discussion, moderated by Ed Hovy and his concerns about 'LLM popcorn research'.
+
+
+04-2025 RTG Spring Workshop
+-----
+Kicked-off by a one-day tutorial on probabilistic circuits by [Antonio Vergari](http://nolovedeeplearning.com/), followed by a two-day workshop with discussions themed around *design challanges of neuroexplicit models*.
+
 
 02-2025 - Full-day workshop on research data management [(linkedin)](https://www.linkedin.com/feed/update/urn:li:activity:7299739481656422402/)
 ------
-On February 17, I gave a workshop on research data management at our RTG. The workshop covered various aspects around the collection, processing, and storage of research data, and also provided insights on how to conduct reproducible research, especially when working with neural models. The workshop ended with a fruitful discussion where we decided upon practical guidelines for our RTG. 
+On February 17, I gave a workshop on research data management at our RTG. The workshop covered various aspects around the collection, processing, and storage of research data, and also provided insights on how to conduct reproducible research, especially when working with neural models. The workshop ended with a fruitful discussion where we decided upon practical guidelines for our RTG.
 
+01-2025 - Guest Lecture: Ethics in NLP
+------
+I gave a guest lecture on Ethics in NLP at the Computational Linguistics lecture by [Alexander Koller](https://www.coli.uni-saarland.de/koller/). The talk first introduced multiple aspects regarding ethics, ethical research, and the increasing impact of NLP on the society. We then talked about how biases (in data and models) as well as various aspects of privacy. Finally, we closed with a very interesting discussion round touching upon a broad range of other topics.
 

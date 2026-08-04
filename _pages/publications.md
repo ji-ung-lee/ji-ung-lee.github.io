@@ -1,16 +1,33 @@
 ---
 layout: archive
-title: "Selected Publications"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">Below you can find a list of selected publications. Please refer to <a href="{{site.author.googlescholar}}">my Google Scholar profile</a> for a full list.</div>
-{% endif %}
+### Accepted Publications (latest first, * marks equal contribution works.)
 
-{% include base_path %}
+- Zena Al-Khalili, Rafi Hakim, Dietrich Klakow*, **Ji-Ung Lee***, [Fork-Think with Confidence](https://arxiv.org/abs/2606.31484), *Conference on Language Modeling*, (to appear) 2026. .
+- Yifan Wang, Mayank Jobanputra, **Ji-Ung Lee**, Soyoung Oh, Isabel Valera, Vera Demberg, [Bridging Fairness and Explainability: Can Input-Based Explanations Promote Fairness in Hate Speech Detection?](https://proceedings.iclr.cc/paper_files/paper/2026/hash/c8a0832712ffb29e0786d4776d824a79-Abstract-Conference.html) _The Fourteenth International Conference on Learning Representations (ICLR)_, 2026.
+- Yifan Wang, Sukrut Rao, **Ji-Ung Lee**, Mayank Jobanputra, Vera Demberg, [B-cos LM: Efficiently Transforming Pre-trained Language Models for Improved Explainability](https://openreview.net/forum?id=c180UH8Dg8) _Transactions of Machine Learning Research (TMLR)_, 2025.	
+- Marcos Treviso*, **Ji-Ung Lee***, Tianchu Ji*, Betty van Aken, Qingqing Cao, Manuel R Ciosici, Michael Hassid, Kenneth Heafield, Sara Hooker, Pedro H Martins, André FT Martins, Peter Milder, Colin Raffel, Edwin Simpson, Noam Slonim, Niranjan Balasubramanian, Leon Derczynski, Roy Schwartz, [Efficient Methods for Natural Language Processing: A Survey](https://aclanthology.org/2023.tacl-1.48/) _Transactions of the Association for Computational Linguistics_, 11: pages 826--860. July, 2023. MIT Press
+- Jan-Christoph Klie, **Ji-Ung Lee**, Kevin Stowe, Gözde Gül Şahin, Nafise Sadat Moosavi, Luke Bates, Dominic Petrak, Richard Eckart De Castilho, Iryna Gurevych, [Lessons Learned from a Citizen Science Project for Natural Language Processing](https://aclanthology.org/2023.eacl-main.261/) _Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics_, pages 3594--3608, May, 2023. Dubrovnik, Croatia
+- Haishuo Fang, **Ji-Ung Lee**, Nafise Sadat Moosavi, and Iryna Gurevych, [Transformers with Learnable Activation Functions](https://aclanthology.org/2023.findings-eacl.181/), _Findings of the Association for Computational Linguistics: EACL 2023_, pages 2382--2398, May, 2023. Dubrovnik, Croatia
+- Lorenz Stangier*, **Ji-Ung Lee***, Yuxi Wang, Marvin Müller, Nicholas Frick, Joachim Metternich, and Iryna Gurevych, [TexPrax: A Messaging Application for Ethical, Real-time Data Collection and Annotation](https://aclanthology.org/2022.aacl-demo.2/) _Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing: System Demonstrations_ (AACL), pages 9--16, November, 2022. Taipei, Taiwan.
+- **Ji-Ung Lee***, Jan-Christoph Klie*, and Iryna Gurevych, [Annotation Curricula to Implicitly Train Non-Expert Annotators](https://direct.mit.edu/coli/article/48/2/343/109903/Annotation-Curricula-to-Implicitly-Train-Non) _Computational Linguistics_, Volume 48 (2), pages 343--373, June, 2022. MIT Press
+- Tilman Beck, **Ji-Ung Lee**, Christina Viehmann, Marcus Maurer, Oliver Quiring, and Iryna Gurevych, [Investigating label suggestions for opinion mining in German Covid-19 social media](https://aclanthology.org/2021.acl-long.1/) _Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)_ (ACL), pages 1--13, July, 2021. Online.
+- Marvin Müller, **Ji-Ung Lee**, Nicholas Frick, Lorenz Stangier, Iryna Gurevych, and Joachim Metternich, [Extracting problem related entities from production chats to enhance the data base for assistance functions on the shop floor](https://www.sciencedirect.com/science/article/pii/S2212827121008787) _9th CIRP Global Web Conference -- Sustainable, resilient, and agile manufacturing and service operations : Lessons from COVID-19_ (Procedia CIRP), Volume 103, pages 231--236, October, 2021. Online.
+- Marianne Grace Araneta, Gülşen Eryiğit, Alexander König, **Ji-Ung Lee**, Ana Luís, Verena Lyding, Lionel Nicolas, Christos Rodosthenous, Federico Sangati, [Substituto–A Synchronous Educational Language Game for Simultaneous Teaching and Crowdsourcing](https://aclanthology.org/2020.nlp4call-1.1/) _In Proceedings of the 9th Workshop on NLP for Computer Assisted Language Learning_ (NLP4CALL) pages 1--9, November, 2020. Online.
+- **Ji-Ung Lee**, Christian M. Meyer, and Iryna Gurevych. [Empowering Active Learning to Jointly Optimize System and User Demands](https://aclanthology.org/2020.acl-main.390/) _Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics_ (ACL), pages 4233--4247, July, 2020. Online
+- **Ji-Ung Lee**, Erik Schwan, and Christian M. Meyer, [Manipulating the Difficulty of C-Tests](https://aclanthology.org/P19-1035/) _Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics_(ACL),pages 360--370, July, 2019. Florence, Italy
+- Steffen Eger, Gözde Gül Şahin, Andreas Rücklé, **Ji-Ung Lee**, Claudia Schulz, Mohsen Mesgar, Krishnkant Swarnkar, Edwin Simpson, Iryna Gurevych. [Text Processing Like Humans Do: Visually Attacking and Shielding NLP Systems](https://aclanthology.org/N19-1165/) 	_Annual Conference of the North American Chapter of the Association for Computational Linguistics_ (NAACL-HLT), pages 1634--1647, June, 2019. Minneapolis, USA
+- **Ji-Ung Lee**, Steffen Eger, Johannes Daxenberger, and Iryna Gurevych, [UKP TU-DA at GermEval 2017: Deep Learning for Aspect Based Sentiment Detection](https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2017-wojatzkietal-germeval2017-proceedings.pdf#page=26) _Proceedings of the GermEval 2017 - Shared Task on Aspect-based Sentiment in Social Media Customer Feedback_, September, 2017. Berlin, Germany
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+### Preprints (latest first, * marks equal contribution works.)
+
+- Sarubi Thillainathan, **Ji-Ung Lee**, Michael Sullivan, Alexander Koller, [AuthorMix: Modular Authorship Style Transfer via Layer-wise Adapter Mixing](https://arxiv.org/abs/2603.23069) _arXiv preprint arXiv:2404.08821_, 2026.
+- Yifan Wang, Jinyi Mu, Mayank Jobanputra, Yu Wang, **Ji-Ung Lee**, Soyoung Oh, Isabel Valera, Vera Demberg, [Sparse Mixture-of-Experts Reward Models Learn Interpretable and Specialized Experts for Personalized Preference Modeling](https://arxiv.org/abs/2606.04284) _arXiv:2606.04284_, 2026.
+- Anna Karnysheva, Dietrich Klakow*, **Ji-Ung Lee***, [Probing Chemical Language Models: Effects of Pre-training and Fine-tuning](https://arxiv.org/abs/2607.02140) _arXiv:2607.02140_, 2026.
+- **Ji-Ung Lee**, Marc Pfetsch, Iryna Gurevych. [Constrainted C-Test Generation using Mixed-Integer Programming](https://arxiv.org/abs/2404.08821). _arXiv:2404.08821_. 2024.
+- **Ji-Ung Lee**, Haritz Puerto, Betty van Aken, Yuki Arase, Jessica Zosa Forde, Leon Derczynski, Andreas Rücklé, Iryna Gurevych, Roy Schwartz, Emma Strubell, Jesse Dodge. [Surveying (Dis)Parities and Concerns of Compute Hungry NLP Research](https://arxiv.org/abs/2306.16900) _arXiv:2306.16900_, 2023.
+- Ulf A Hamster, **Ji-Ung Lee**, Alexander Geyken, Iryna Gurevych. [Rediscovering Hashed Random Projections for Efficient Quantization of Contextualized Sentence Embeddings](https://arxiv.org/abs/2304.02481)	_arXiv:2304.02481_, 2023.
