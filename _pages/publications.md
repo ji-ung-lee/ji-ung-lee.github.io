@@ -5,9 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+For an up-to-date list please also check my [google scholar](https://scholar.google.com/citations?user=5Afusk0AAAAJ&hl) 
+
 ### Accepted Publications (latest first, ⋆ marks equal first/last author works.)
 
-- Zena Al-Khalili, Rafi Hakim, Dietrich Klakow⋆, **Ji-Ung Lee**⋆, [Fork-Think with Confidence](https://arxiv.org/abs/2606.31484), *Conference on Language Modeling*, (to appear) 2026. .
+- Zena Al-Khalili, Rafi Hakim, Dietrich Klakow⋆, **Ji-Ung Lee**⋆, [Fork-Think with Confidence](https://arxiv.org/abs/2606.31484), *Conference on Language Modeling*, (to appear) 2026.
 - Yifan Wang, Mayank Jobanputra, **Ji-Ung Lee**, Soyoung Oh, Isabel Valera, Vera Demberg, [Bridging Fairness and Explainability: Can Input-Based Explanations Promote Fairness in Hate Speech Detection?](https://proceedings.iclr.cc/paper_files/paper/2026/hash/c8a0832712ffb29e0786d4776d824a79-Abstract-Conference.html) _The Fourteenth International Conference on Learning Representations (ICLR)_, 2026.
 - Yifan Wang, Sukrut Rao, **Ji-Ung Lee**, Mayank Jobanputra, Vera Demberg, [B-cos LM: Efficiently Transforming Pre-trained Language Models for Improved Explainability](https://openreview.net/forum?id=c180UH8Dg8) _Transactions of Machine Learning Research (TMLR)_, 2025.	
 - Marcos Treviso⋆, **Ji-Ung Lee**⋆, Tianchu Ji*, Betty van Aken, Qingqing Cao, Manuel R Ciosici, Michael Hassid, Kenneth Heafield, Sara Hooker, Pedro H Martins, André FT Martins, Peter Milder, Colin Raffel, Edwin Simpson, Noam Slonim, Niranjan Balasubramanian, Leon Derczynski, Roy Schwartz, [Efficient Methods for Natural Language Processing: A Survey](https://aclanthology.org/2023.tacl-1.48/) _Transactions of the Association for Computational Linguistics_, 11: pages 826--860. July, 2023. MIT Press
