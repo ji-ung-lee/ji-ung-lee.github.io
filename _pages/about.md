@@ -25,7 +25,7 @@ Together with [Mareike Hartmann](https://mahartmann.github.io/), we organized a 
 
 03-2026 - RTG Spring Workshop
 ------
-I had the pleasure to kicked-off this year's spring workshop with a talk on a neuroexplicit perspective, developed together with [Wolfgang](https://wolfstam.github.io/), [Max](https://www.rausch-dupont.de/), [Chaahat](https://fai.cs.uni-saarland.de/jain/), and [Nektarios](https://machinelearning.uni-saarland.de/nektarios-kalampalikis/). This was followed by 
+I had the pleasure to kick-off this year's spring workshop with a talk on a neuroexplicit perspective, developed together with [Wolfgang](https://wolfstam.github.io/), [Max](https://www.rausch-dupont.de/), [Chaahat](https://fai.cs.uni-saarland.de/jain/), and [Nektarios](https://machinelearning.uni-saarland.de/nektarios-kalampalikis/). This was followed by 
 Together with talks from [Alexander Koller](https://www.coli.uni-saarland.de/koller/), [Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html), [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele), [Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/), [Mariya Toneva](https://mtoneva.com/), and [Jilles Vreeken](https://cispa.de/en/people/jilles.vreeken), we had lots of fun discussing how we can put different types of neuroexplicit models in relation to each other as well as what their strenghts and weaknesses may be.
 
 01-2026 - Paper accepted to ICLR
