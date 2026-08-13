@@ -12,7 +12,7 @@ Hi, I'm Ji-Ung, a postdoc at the research training group (RTG) [Neuroexplicit Mo
 News
 ======
 
-07-2026 - Paper accepted to COLM
+07-2026 - Paper accepted at COLM
 ------
 [Fork-Think with Confidence](https://arxiv.org/abs/2606.31484) _Zena Al-Khalili, Rafi Hakim, Dietrich Klakow, **Ji-Ung Lee**_. 2026.
 
@@ -27,7 +27,7 @@ Together with [Mareike Hartmann](https://mahartmann.github.io/), we organized a 
 ------
 I had the pleasure to kick-off this year's spring workshop with a talk on a neuroexplicit perspective, developed together with [Wolfgang](https://wolfstam.github.io/), [Max](https://www.rausch-dupont.de/), [Chaahat](https://fai.cs.uni-saarland.de/jain/), and [Nektarios](https://machinelearning.uni-saarland.de/nektarios-kalampalikis/). Together with talks from [Alexander Koller](https://www.coli.uni-saarland.de/koller/), [Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html), [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele), [Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt/), [Mariya Toneva](https://mtoneva.com/), and [Jilles Vreeken](https://cispa.de/en/people/jilles.vreeken), we had lots of fun discussing how we can put different types of neuroexplicit models in relation to each other as well as what their strenghts and weaknesses may be.
 
-01-2026 - Paper accepted to ICLR
+01-2026 - Paper accepted at ICLR
 ------
 [Bridging Fairness and Explainability: Can Input-Based Explanations Promote Fairness in Hate Speech Detection?](https://openreview.net/forum?id=fPMu3Afv3s) _Yifan Wang, Mayank Jobanputra, **Ji-Ung Lee**, Soyoung Oh, Isabel Valera, Vera Demberg_. 2026.
 
@@ -38,7 +38,7 @@ In this work, we study the use of input-based explanations for promoting fairnes
 I gave another guest lecture on Ethics in NLP at the Computational Linguistics course from [Alexander Koller](https://www.coli.uni-saarland.de/koller/). The talk first introduced multiple aspects regarding ethics, ethical research, and the increasing impact of NLP on the society. We then talked about how biases (in data and models) as well as various aspects of privacy. This time, we closed with a very interesting discussion round centered around the dual use of AI.
 
 
-12-2025 - Paper accepted to TMLR [(paper)](https://openreview.net/forum?id=c180UH8Dg8)
+12-2025 - Paper accepted at TMLR [(paper)](https://openreview.net/forum?id=c180UH8Dg8)
 ------
 B-cos LM: Efficiently Transforming Pre-trained Language Models for Improved Explainability. _Yifan Wang, Sukrut Rao, **Ji-Ung Lee**, Mayank Jobanputra, Vera Demberg_. 2025.
 
