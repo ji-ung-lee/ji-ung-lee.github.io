@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Ji-Ung, a postdoc at the research training group (RTG) [Neuroexplicit Models](https://www.neuroexplicit.org/) at the University of Saarland (Germany). My research revolves around developing models that humans can understand and interact with. This involves aspects such as interpretability, steerability, model efficiency, and faithfulness. Besides, I am interested in open education, ethics, and citizen science. If you are interested in these topics feel free to drop me a message! 
+Hi, I'm Ji-Ung, a postdoc at the research training group (RTG) [Neuroexplicit Models](https://www.neuroexplicit.org/) at the University of Saarland (Germany). I obtained my PhD at [TU Darmstadt](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) supervised by [Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp). My research revolves around developing models that humans can understand and interact with. This involves aspects such as interpretability, steerability, model efficiency, and faithfulness. Besides, I am interested in open education, ethics, and citizen science. If you are interested in these topics feel free to drop me a message! 
 
 News
 ======
