@@ -24,12 +24,11 @@ author:
   avatar           : "selfie3.jpg"
   name             : "Ji-Ung Lee"
   pronouns         : "he/him"  
-  bio              : "Postdoc at RTG Neuroexplicit Models"
-  location         : "Saarbrücken"
-  employer         : "University of Saarland"
+  # bio              "Postdoc at RTG Neuroexplicit Models"
+  # location         "Saarbrücken"
+  employer         : "https://www.neuroexplicit.org/"
   uri              : # URL
   email            : "ji-ung.lee@uni-saarland.de" 
-
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=5Afusk0AAAAJ"
   impactstory      : # URL
