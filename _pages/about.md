@@ -12,6 +12,17 @@ Hi, I'm Ji-Ung, a postdoc at the research training group (RTG) [Neuroexplicit Mo
 News
 ======
 
+08-2026 - Two Papers accepted at EMNLP
+------
+[Probing Chemical Language Models: Effects of Pre-training and Fine-tuning](https://arxiv.org/abs/2607.02140) _Anna Karnysheva, Dietrich Klakow, **Ji-Ung Lee**_. 2026.
+
+In this work, we analyze 14 chemical language models across 78 probing tasks finding that pre-training generally improves molecular structure awareness of CLMs, particularly in the upper layers. Our fine-tuning experiments on two chemical downstream tasks further indicate that the changes in the representations follow chemical theory.
+
+[AuthorMix: Modular Authorship Style Transfer via Layer-wise Adapter Mixing](https://arxiv.org/abs/2603.23069) _Sarubi Thillainathan, **Ji-Ung Lee**, Michael Sullivan, Alexander Koller_. 2026.
+
+We propose AuthorMix: a lightweight, modular, and interpretable style transfer framework. We train individual, style-specific LoRA adapters on a small set of high-resource authors, allowing the rapid training of specialized adaptation models for each new target via learned, layer-wise adapter mixing, using only a handful of target-style training examples.
+
+
 07-2026 - Paper accepted at COLM
 ------
 [Fork-Think with Confidence](https://arxiv.org/abs/2606.31484) _Zena Al-Khalili, Rafi Hakim, Dietrich Klakow, **Ji-Ung Lee**_. 2026.
