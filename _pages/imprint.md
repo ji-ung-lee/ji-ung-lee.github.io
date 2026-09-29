@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Impressum
 
-### Angaben gem. § 5 TMG
+### Angaben gem. § 5 DDG
 
 Betreiber und Kontakt:
 Ji-Ung Lee
